@@ -1,0 +1,80 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #0f1923;
+  font-family: Arial, sans-serif;
+  flex-direction: column;
+  font-family: Manrope;
+}
+
+.advice-card {
+  background-color: #1c2834;
+  color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  text-align: center;
+  max-width: 400px;
+  margin: 0 20px;
+}
+
+.advice-card .advice-number {
+  color: #00ff85;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.advice-card .advice-text {
+  font-size: 18px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+.divider {
+  height: 1px;
+  background-color: rgba(255, 255, 255, 0.2);
+  margin: 20px auto;
+}
+
+.action-button {
+  transition: 300ms;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #00ff85;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  margin: 0 auto;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border: none;
+}
+
+.action-button:hover {
+  background-color: #00e075;
+  box-shadow: 0 0px 30px 2px #00e075;
+}
+
+.action-button:active {
+  transform: scale(0.95);
+}
+
+.dice-icon {
+  font-size: 20px;
+  color: #0f1923;
+}
+.attribution {
+  position: absolute;
+  bottom: 10px;
+  font-size: 11px;
+  text-align: center;
+  color: white;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
