@@ -10,8 +10,8 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-page-using-pure-js-57bXUgYlkK)
+- Live Site URL: [Add live site URL here](https://mohamad-taha.github.io/advice-generator/)
 
 ### Built with
 
@@ -22,5 +22,5 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ## Author
 
-- github - [@mohamad-taha](https://www.your-site.com)
+- github - [@mohamad-taha](https://mohamad-taha.github.io/advice-generator/)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/mohamad-taha)
